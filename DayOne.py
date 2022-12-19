@@ -37,7 +37,6 @@ if __name__ == "__main__":
                     elf = []
 
         print("The max number of calories a single elf holds is: {}".format(max(calorie_counter(total_elves))))
-
     elif mode == "2":
         total_elves = []
         elf = []
